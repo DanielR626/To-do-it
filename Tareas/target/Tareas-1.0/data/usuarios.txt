@@ -1,0 +1,8 @@
+12345,mateo,asfasfsfsef
+54321,Carlos,20232
+1080,pepe,123456
+23456,Sebastian,12258754
+123,a,a
+0000,h,h
+77,j,77
+99,a,a
